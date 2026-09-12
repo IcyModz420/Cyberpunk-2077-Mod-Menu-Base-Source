@@ -1,0 +1,2 @@
+#define DX12BASEICYMODZ420_API __declspec(dllexport)
+#define DX12BASEICYMODZ420_API __declspec(dllimport)

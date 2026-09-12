@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  dllmain.cpp
+  DX12BaseIcyModz420.cpp
+  Generating Code...
+     Creating library C:\Users\icymo\source\repos\DX12BaseIcyModz420_CyberPunk\x64\Debug\DX12BaseIcyModz420.lib and object C:\Users\icymo\source\repos\DX12BaseIcyModz420_CyberPunk\x64\Debug\DX12BaseIcyModz420.exp
+  DX12BaseIcyModz420.vcxproj -> C:\Users\icymo\source\repos\DX12BaseIcyModz420_CyberPunk\x64\Debug\DX12BaseIcyModz420.dll
